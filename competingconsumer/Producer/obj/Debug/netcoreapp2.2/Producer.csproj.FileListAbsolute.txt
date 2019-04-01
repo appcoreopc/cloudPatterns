@@ -1,0 +1,11 @@
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/obj/Debug/netcoreapp2.2/Producer.csprojAssemblyReference.cache
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/obj/Debug/netcoreapp2.2/Producer.csproj.CoreCompileInputs.cache
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/obj/Debug/netcoreapp2.2/Producer.AssemblyInfoInputs.cache
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/obj/Debug/netcoreapp2.2/Producer.AssemblyInfo.cs
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/bin/Debug/netcoreapp2.2/Producer.deps.json
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/bin/Debug/netcoreapp2.2/Producer.runtimeconfig.json
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/bin/Debug/netcoreapp2.2/Producer.runtimeconfig.dev.json
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/bin/Debug/netcoreapp2.2/Producer.dll
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/bin/Debug/netcoreapp2.2/Producer.pdb
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/obj/Debug/netcoreapp2.2/Producer.dll
+/home/jeremy/tmp/test/azure/cloudPatterns/competingconsumer/Producer/obj/Debug/netcoreapp2.2/Producer.pdb
