@@ -17,6 +17,14 @@ az group delete --resource-group myResourceGroup
 
 
 
+func azure functionapp publish azFunHttp
+
+az functionapp deployment source config-zip  -g FuncGroup -n \
+azFunHttp --src <zip_file_path>
+
+
+
+
 
 
 
