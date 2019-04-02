@@ -1,4 +1,3 @@
-
 resourceGroupName="sbCompetingConsumerGroup"
 
 az group create --name $resourceGroupName --location australiasoutheast
