@@ -1,0 +1,12 @@
+
+competingconsumer/TopicConsumer/bin/*
+competingconsumer/TopicProducer/bin/*
+
+competingconsumer/TopicConsumer/obj/*
+competingconsumer/TopicProducer/obj/*
+
+competingconsumer/Producer/obj/*
+competingconsumer/Producer/bin/*
+
+competingconsumer/Consumer/obj/*
+competingconsumer/Consumer/bin/*
