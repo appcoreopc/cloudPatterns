@@ -2,7 +2,8 @@
 using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Azure.ServiceBus;
-using System;
+using System;   
+using Microsoft.Azure.Management.ResourceManager;
 
 namespace TopicProducer
 {
@@ -18,6 +19,10 @@ namespace TopicProducer
             Console.WriteLine("Hello World!");
             MainAsync().GetAwaiter().GetResult();
 
+        }
+
+        static void CreteTopic() {      
+         
         }
 
         static async Task MainAsync()

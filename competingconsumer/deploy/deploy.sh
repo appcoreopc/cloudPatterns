@@ -21,3 +21,10 @@ dotnet new console -n TopicProducer
 dotnet add package Microsoft.Azure.ServiceBus --version 3.4.0
 
 az group delete --resource-group $resourceGroupName
+
+
+Event Hub
+
+az eventhubs namespace create --name tradeNs --resource-group $resourceGroupName -l australiasoutheast
+
+az eventhubs eventhub create --name tradehub --resource-group $resourceGroupName  --namespace-name tradeNs

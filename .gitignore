@@ -1,4 +1,3 @@
-
 competingconsumer/TopicConsumer/bin/*
 competingconsumer/TopicProducer/bin/*
 
@@ -10,3 +9,6 @@ competingconsumer/Producer/bin/*
 
 competingconsumer/Consumer/obj/*
 competingconsumer/Consumer/bin/*
+
+competingconsumer/EventHubWriter/bin/*
+competingconsumer/EventHubWriter/obj/*
