@@ -12,3 +12,5 @@ competingconsumer/Consumer/bin/*
 
 competingconsumer/EventHubWriter/bin/*
 competingconsumer/EventHubWriter/obj/*
+competingconsumer/AzMgt/bin/*
+competingconsumer/AzMgt/obj/*
