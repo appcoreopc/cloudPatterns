@@ -61,3 +61,17 @@ kubectl get nodes
 
 
 
+az group create --name myResourceGroup --location westeurope
+az storage account create --name <storage_name> --location westeurope --resource-group myResourceGroup --sku Standard_LRS
+az functionapp create --resource-group myResourceGroup --consumption-plan-location westeurope \
+--name <app_name> --storage-account  <storage_name> --runtime <language> 
+func azure functionapp publish <FunctionAppName>
+
+
+
+
+
+az functionapp deployment source config --name $functionapp --resource-group $resourceGroupName --branch master --manual-integration --repo-url https://github.com/Azure-Samples/function-image-upload-resize
+
+
+
